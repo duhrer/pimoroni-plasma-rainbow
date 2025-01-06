@@ -7,9 +7,7 @@ to control a
 
 It might also work with a Plasma 2040 unit, but may need some adjustments.
 
-Here's a demonstration on my YouTube channel:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s6Uyos-bfrg?si=oKfr_VjVta4GC_sq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+You can see a demonstration [on my YouTube channel](https://youtu.be/s6Uyos-bfrg).
 
 ## Prerequisites
 
