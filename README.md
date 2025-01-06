@@ -1,4 +1,4 @@
-# Pimoroni Plasma Dem
+# Pimoroni Plasma Rainbow
 
 This project configures a
 [Pimoroni Plasma 2350](https://shop.pimoroni.com/products/plasma-2350?variant=42092628279379)
