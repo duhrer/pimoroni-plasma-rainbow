@@ -33,8 +33,8 @@ void setup () {
 #define DIRECTION 1
 
 #define R_TICKS 25
-#define G_TICKS 20
-#define B_TICKS 20
+#define G_TICKS 10
+#define B_TICKS 5
 
 #define BAND_WIDTH 33
 
